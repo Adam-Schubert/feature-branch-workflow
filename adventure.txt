@@ -1,2 +1,2 @@
 This is me adding some random content!!
-This is me adding more text to create a merge conflict
+Merge conflicts are scary, bro
